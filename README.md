@@ -1,4 +1,4 @@
-# ClosestTo0
+# ClosestTo0 ![test status](https://travis-ci.org/cegerard/ClosestTo0.svg?branch=master "travis")
 
 Test for GoJob
 
